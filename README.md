@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @OnlyShockingCub
-- 👀 I’m interested in programming and math
-- 🌱 I’m currently learning programming
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Giraffes are 30 times more likely to get hit by lightning than people.
-- Dmoj Profile: https://dmoj.ca/user/OnlyShockingCub
+I use arch btw
